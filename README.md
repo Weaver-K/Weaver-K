@@ -1,3 +1,4 @@
+![Uploading 76561199625821784.png…]()
 # Hi there 👋
 I am Weaver-K, a Full Stack Engineer.
 I can build and deploy full web applications for I am proficient both in backend and frontend software development.
