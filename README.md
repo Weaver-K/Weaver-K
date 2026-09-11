@@ -12,3 +12,4 @@ My main stack is MERN:
 
 I am also proficient in Python, NoSQL and MariaDB
 A full stack project I currently have is [Task Manager](https://github.com/Weaver-K/Task-Manager) which is a simple web application which a user can create and manage their tasks, built from my main stacks as my first project of many to come.
+Currently focusing on doing DevOps projects to build and deploy secure and scalable projects
