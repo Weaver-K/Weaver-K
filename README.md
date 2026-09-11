@@ -1,4 +1,5 @@
-![Uploading 76561199625821784.png…]()
+<img width="184" height="184" alt="76561199625821784" src="https://github.com/user-attachments/assets/4d5c1436-ffd7-4e40-ab9a-84f555a39bb9" />
+
 # Hi there 👋
 I am Weaver-K, a Full Stack Engineer.
 I can build and deploy full web applications for I am proficient both in backend and frontend software development.
