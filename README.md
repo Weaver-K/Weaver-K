@@ -1,4 +1,4 @@
-#< img src="https://github.com/Weaver-K" width="200" height="200" alt="profile-pic">
+
 
 ## Hi there 👋
 I am Weaver-K, a Full Stack Engineer.
@@ -9,5 +9,6 @@ My main stack is MERN:
 - ExpressJS
 - React
 - NodeJS
+
 I am also proficient in Python, NoSQL and MariaDB
 A full stack project I currently have is [Task Manager](https://github.com/Weaver-K/Task-Manager) which is a simple web application which a user can create and manage their tasks, built from my main stacks as my first project of many to come.
